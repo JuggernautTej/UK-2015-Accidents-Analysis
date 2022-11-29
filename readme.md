@@ -3,7 +3,7 @@
 
 
 With this project, I sought to polish my skills in SQL using MySQL workbench. The data on this project is sourced from
-the UK's Department of Transport's open database which I used to determine the amount of accidents and the associated severity for all vehicles
+the UK's Department of Transport's open database, https://www.data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data, which I used to determine the amount of accidents and the associated severity for all vehicles
 as well as statistics on the accients caused by Motorcycles. This project helped me work on importing data into MySQL workbench by getting me acquinted with the
 syntax for doing so.
 
