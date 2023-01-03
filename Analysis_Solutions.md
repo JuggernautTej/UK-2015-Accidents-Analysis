@@ -72,6 +72,8 @@ ORDER BY 2,3;
 | Pedal cycle                            | 3        | 19440           |
 | Car                                    | 3        | 182954          |
 
+### From the analysis, accidents involving cars had the most occurrences but the severity were the lest fatal (that is, the accidents severity were slight). On the opposite end, accidents involving mobility scooters had the lest occurrences but they were the most serious.
+
 ## Question 3; What is the Average Severity per vehicle type?
 ````sql
 SELECT 
@@ -110,6 +112,8 @@ FROM
 | Car                                    | 2.87             |
 | Taxi/Private hire car                  | 2.88             |
 | Tram                                   | 2.89             | 
+
+### The electric motorcycle has the lest average accident severity with Trams having the lest average. It should be noted these are influenced by the number of accidents each vehicle type were involved in.
 
 ## Question 4; What is the Average Severity and Total Accidents for Motor Bikes?
 ````sql
